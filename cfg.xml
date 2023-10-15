@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<oracle>
+    <connections>
+        <url>jdbc:oracle:thin:@localhost:1522:XE</url>
+        <username>makeen</username>
+        <password>12345</password>
+    </connections>
+</oracle>
